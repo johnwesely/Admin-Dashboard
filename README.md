@@ -1,2 +1,2 @@
 # Admin-Dashboard
-Admin page for a webiste built to practice CSS Grid.
+Admin page for a website built to practice combining CSS Grid with flexbox.
